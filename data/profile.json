@@ -1,0 +1,66 @@
+{
+  "name": "Marco A Zanchetta Montagna",
+  "photo": "https://avatars.githubusercontent.com/u/140662414?v=4",
+  "job": "Estudante de Análise e Desenvolvimento de Sistemas (IFSP)",
+  "location": "Araraquara - SP",
+  "phone": "(16) 99179-7003",
+  "email": "mamontagna100@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "VsCode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de uma página web, de um bloco de notas (NoteBase)",
+      "url": "https://github.com/marcozmz/notebase",
+      "github": true
+    },
+    {
+      "name": "Certificado Lógica de Programação (DIO)",
+      "url": "https://www.dio.me/certificate/AB8XGWWZ/share",
+      "github": false
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor Freelance (Autônomo) / EduPlast",
+      "period": "2024",
+      "description": "Desenvolvi o site EduPlast, criando uma solução web completa com estrutura HTML5, estilização com CSS e interatividade utilizando JavaScript."
+    }
+  ]
+}
